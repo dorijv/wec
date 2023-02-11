@@ -37,6 +37,8 @@ This website is in active development and will continue improving and being upda
 
 I made a zsh script to build the project, export the static version to /public and push that version to a sub-branch, gh-pages. Which is then used by GitHub pages for static hosting.
 
+You can find the project <a href="https://www.hjv.is/wec/"> here! </a>
+
 ### Improvements ###
 
 See room for improvements? Feel free to submit a pull request or shoot me a message!
