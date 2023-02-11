@@ -16,10 +16,10 @@ The meet director can instantly update any deviations made to the timeplan using
      <td>Contacts</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/dorijv/wec/blob/main/index.png?raw=true" width=270 height=480></td>
-    <td><img src="https://github.com/dorijv/wec/blob/main/nav_bar.png?raw=true" width=270 height=480></td>
-    <td><img src="https://github.com/dorijv/wec/blob/main/actvities.png?raw=true" width=270 height=480></td>
-    <td><img src="https://github.com/dorijv/wec/blob/main/contacts.png?raw=true" width=270 height=480></td>
+    <td><img src="https://github.com/dorijv/wec/blob/main/index.png?raw=true"></td>
+    <td><img src="https://github.com/dorijv/wec/blob/main/nav_bar.png?raw=true"></td>
+    <td><img src="https://github.com/dorijv/wec/blob/main/activities.png?raw=true"></td>
+    <td><img src="https://github.com/dorijv/wec/blob/main/contacts.png?raw=true"></td>
   </tr>
  </table>
 
